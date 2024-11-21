@@ -1,3 +1,8 @@
 .DS_Store
 Lab1/legitimate
 Lab1/malicious
+Lab2/dataset/
+Lab2/*.pth
+Lab2/dataset.zip
+Lab2/data_demo.npz
+Lab2/ais3
