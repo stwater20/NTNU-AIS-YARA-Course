@@ -7,6 +7,12 @@ Advanced Information Security Practices for Industries: Attack and Defense
 
 藍隊 - 企業如何偵測並應對網路攻擊 - Detection Engineering(Sigma, Yara)
 
+### Lecturer
+
+Sheng-Shan Chen
+- PhD student, CSIE, NTUT
+- Security Researcher, CyCraft
+
 ### Course Link
 
 [https://tmp.sectools.tw/archives/171](https://tmp.sectools.tw/archives/171)
