@@ -24,3 +24,9 @@ This project contains numerous viruses and is intended for academic research pur
 ### Test
 
 Our lab is designed to run on Colab. If you want to test its functionality, you can run [Lab0/testing_colab.ipynb](Lab0/testing_colab.ipynb) to verify its usability.
+
+### Before Start
+
+```
+pip3 install -r requirements.txt
+```
