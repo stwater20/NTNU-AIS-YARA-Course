@@ -15,7 +15,7 @@ Sheng-Shan Chen
 
 ### Course Link
 
-[https://tmp.sectools.tw/archives/171](https://tmp.sectools.tw/archives/171)
+[https://sectools.tw/archives/171](https://sectools.tw/archives/171)
 
 ### Notice
 
